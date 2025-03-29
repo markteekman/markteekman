@@ -1,3 +1,3 @@
 ![1669127235697](https://user-images.githubusercontent.com/3909046/205880179-af74ab1a-916f-4bf2-b777-3811ca9c5998.jpeg)
 
-🚀 Working on the [Accessible Astro](https://accessible-astro.incluud.dev) ecosystem and [Incluud](https://incluud.dev)!
+🚀 Been working with **Astro.js** since it's early days in 2021 and absolutely ❤️ the framework! Building Accessible Astro components and themes since then and started a collaborative effort in 2025 to house these projects on [Accessible Astro](https://accessible-astro.incluud.dev) under the name [Incluud](https://incluud.dev). My passion stems from building websites that everyone can use and making them as accessible as possible is what drives me in the Open Source community.
